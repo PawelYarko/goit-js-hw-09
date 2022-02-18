@@ -1,0 +1,12 @@
+.form label{
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+.form label:last-child{
+    margin-right: 0px;
+}
+.form{
+    display: flex;
+    justify-content: flex-start;  
+}
